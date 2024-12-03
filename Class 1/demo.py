@@ -1,0 +1,1 @@
+print("Hello", "hi", "demo", "world", "teddy", sep=",")
